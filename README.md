@@ -1,10 +1,10 @@
 # Banking System Manual Testing Project
 
-QA manual testing project covering test case design, execution, bug reporting, and retesting for a banking application.
+QA manual testing project covering **test case design, execution, bug reporting, and retesting** for a banking application.
 
 ## Covered Features
 
-### Manager
+### Manager Features
 - New Customer
 - Edit Customer
 - Delete Customer
@@ -19,7 +19,7 @@ QA manual testing project covering test case design, execution, bug reporting, a
 - Change Password
 - Balance Enquiry
 
-### Customer
+### Customer Features
 - Change Password
 - Balance Enquiry
 - Mini Statement
@@ -44,4 +44,4 @@ Examples include:
 - Field inconsistencies
 
 ## Author
-Mohammed Elzlytny
+**Mohammed Elzlytny**
